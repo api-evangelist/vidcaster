@@ -1,0 +1,60 @@
+{
+    "name": "Vidcaster",
+    "description": "<p>Vidcaster is a video training platform used by companies like Wix, VMware, and MIT to drive measurable training outcomes for employees, prospects, customers and distributed workforces. The platform includes a suite of tools for video hosting, user authentication, in-video engagement, and analytics data that integrates into third-party systems.<\/p>",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/vidcaster-logo.png",
+    "tags": [
+        "have api",
+        "videos"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/vidcaster\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Vidcaster",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/vidcaster-logo.png",
+            "humanURL": "http:\/\/www.vidcaster.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/vidcaster-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/vidcaster-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "http:\/\/blog.vidcaster.com\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/blog.vidcaster.com\/feed\/"
+        },
+        {
+            "type": "Developers",
+            "url": "http:\/\/support.vidcaster.com\/api-overview\/"
+        },
+        {
+            "type": "Documentation",
+            "url": "http:\/\/docs.vidcaster.apiary.io\/"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/vidcaster"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.vidcaster.com\/"
+        }
+    ]
+}
